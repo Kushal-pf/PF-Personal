@@ -1,0 +1,13 @@
+{
+  "name": "pf-personal",
+  "version": "1.0.0",
+  "main": "lec_1_variables.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lec_1_variables.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
